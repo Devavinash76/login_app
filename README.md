@@ -22,9 +22,20 @@ Built entirely using Flutter’s core widgets — no external dependencies.
 |:--------------:|:-----------:|
 | <img src="splash.jpg" width="250"/> | <img src="login.jpg" width="250"/> |
 
-> Place your screenshots (`splash.jpg` and `login.jpg`) in the **project root directory** (where `pubspec.yaml` is).
+ 
 
 ---
 
 ## ⚙️ Project Structure
 
+lib/
+ ├─ main.dart
+ ├─ core/
+ │   └─ app_theme.dart
+ ├─ features/
+ │   ├─ splash/
+ │   │   └─ presentation/
+ │   │       └─ splash_screen.dart
+ │   └─ login/
+ │       └─ presentation/
+ │           └─ login_page.dart
