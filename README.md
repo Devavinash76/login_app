@@ -20,7 +20,7 @@ Built using only Flutter’s core widgets — no external dependencies.
 
 | Splash Screen | Login Page |
 |:--------------:|:-----------:|
-| <img src="assets/screenshots/splash.png" width="250"/> | <img src="assets/screenshots/login.png" width="250"/> |
+| <img src="blob/main/splash.jpg" width="250"/> | <img src="assets/screenshots/login.png" width="250"/> |
 
 > *(Add screenshots from your emulator or device here)*
 
