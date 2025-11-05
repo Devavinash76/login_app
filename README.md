@@ -26,19 +26,4 @@ Built entirely using Flutter’s core widgets — no external dependencies.
 
 ---
 
-## ⚙️ Project Structure
-
-lib/
- ├─ main.dart
- ├─ core/
- │   └─ app_theme.dart
- ├─ features/
- │   ├─ splash/
- │   │   └─ presentation/
- │   │       └─ splash_screen.dart
- │   └─ login/
- │       └─ presentation/
- │           └─ login_page.dart
-
-
  
